@@ -1,0 +1,10 @@
+{
+  "name": "raw-api-by-Verse",
+  "version": "1.0.0",
+  "private": false,
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  }
+}

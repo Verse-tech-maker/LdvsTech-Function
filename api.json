@@ -1,0 +1,14 @@
+[
+    {
+        "name": "ForceAndroDoc",
+        "file": "./functions/ForceAndroDoc.js"
+    },
+    {
+        "name": "supportHeader",
+        "file": "./functions/supportHeader.js"
+    },
+    {
+        "name": "banGbOld",
+        "file": "./functions/banGbOld.js"
+    }
+]
